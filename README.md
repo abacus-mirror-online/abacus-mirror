@@ -81,4 +81,6 @@ Always prioritize security when navigating the darknet. Utilize validated **Abac
 
 
 
-Update:  06/17/2025 Updated external references to current URLs
+
+
+Update: Anchor repair
