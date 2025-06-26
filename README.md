@@ -87,4 +87,6 @@ Always prioritize security when navigating the darknet. Utilize validated **Abac
 
 
 
-Update:  06/24/2025 04-38-41 Link is now available online
+
+
+Update:  Thursday 26 June 2025
